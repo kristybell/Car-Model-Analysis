@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ## Practical Example
+# ## Car Model
 
 # ### Importing the Relevant Libraries
 
